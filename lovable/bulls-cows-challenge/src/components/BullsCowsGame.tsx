@@ -4,6 +4,7 @@ import { DigitDisplay } from "./DigitDisplay";
 import { NumberPad } from "./NumberPad";
 import { GuessHistory } from "./GuessHistory";
 import { GameOverModal } from "./GameOverModal";
+import { FooterCredit } from "./FooterCredit";
 
 export const BullsCowsGame = () => {
   const { gameState, addDigit, removeDigit, submitGuess, resetGame } = useGameLogic();
@@ -51,5 +52,6 @@ export const BullsCowsGame = () => {
         )}
       </div>
     </div>
+    <FooterCredit />
   );
 };
