@@ -1,4 +1,4 @@
-# Bulls & Cows Game Guide
+# Bulls & Cows Game Guide 🐂🐄
 
 Play the game here: [https://hr-mini-projects-bullncows.netlify.app/](https://hr-mini-projects-bullncows.netlify.app/)
 
@@ -10,8 +10,8 @@ Play the game here: [https://hr-mini-projects-bullncows.netlify.app/](https://hr
 - The secret number has 3 unique digits (0-9).
 - Enter your guess using the number pad.
 - After each guess, you’ll get feedback:
-  - **Bull**: A correct digit in the correct position.
-  - **Cow**: A correct digit in the wrong position.
+  - 🐂 **Bull**: A correct digit in the correct position.
+  - 🐄 **Cow**: A correct digit in the wrong position.
 - Use the feedback to deduce the secret number.
 - You have a limited number of attempts to solve it.
 
