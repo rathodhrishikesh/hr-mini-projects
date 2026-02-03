@@ -1,0 +1,10 @@
+Strike Price: 154.29
+Notional: 200000.00
+Spot Price on Initial Date: 159.06
+Spot Price on Valuation Date: 195.61
+Number of Days between Valuation Date and Initial Date: 251 days
+Share Price ABOVE Strike Price on Valuation Date
+Final Outcome:
+Investor Receives: 200000.00
+Profit: 1920.00
+Loss: 0.00

@@ -1,0 +1,5 @@
+fetch images from this path D:\PythonProjects\FinIQ\9_VideoCompilation\Test1
+compile them all into an .mp4 video
+top right should have caption which should be the name of the image file
+each image stays for half a second
+store video in the same folder

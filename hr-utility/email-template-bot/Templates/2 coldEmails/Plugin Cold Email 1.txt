@@ -1,0 +1,24 @@
+Subject: Recent MSBA Grad | ~4 Years of FinTech Experience | Interest in JOB_ROLE role @ COMPANY_NAME
+Dear CONTACT_NAME,
+
+My name is Hrishikesh Rathod, and I recently graduated with an MS in Business Analytics from the University of Washington’s Foster School of Business in June (Class of 2025). With a foundation in computer engineering and 3.5 years of global experience in the fintech space, I've developed strong skills in Python, R, SQL, Java, C#, Tableau, and Power BI. At FinIQ Consulting, I contributed to the development and maintenance of finance trading platforms for international banks. Most recently, I also partnered with Salesforce's Data & Analytics team for my capstone project.
+
+I'm highly interested in the JOB_ROLE role at COMPANY_NAME, as it aligns strongly with my background and passions. During my Master’s in Business Analytics, I had the opportunity to dive deep into A/B testing, causal inference, customer retention strategies, churn analysis, statistical methods, and marketing analytics, all areas that excite me beyond my technical experience. Over the past few weeks, I have spent time building projects out of my passion for solving business problems while leveraging the use of AI:
+
+1. A/B Testing Simulator: Simulate, Analyze, and Learn from A/B test experiments in minutes, using real time simulation without the need of any complex setup.
+Project Link: https://ab-testing-simulator.streamlit.app/
+Github: https://github.com/rathodhrishikesh/ab-testing-simulator/
+
+2. OMS & FIX Protocol Simulator: Built an Order Management System (OMS) that submits orders using live Yahoo Finance data, generates FIX protocol messages, stores trades in SQLite, and visualizes a live portfolio with dynamic blotters.
+Project Link: https://oms-fix-simulator.streamlit.app/
+Github: https://github.com/rathodhrishikesh/oms-fix-simulator/
+
+I bring a strong technical foundation, a business-driven mindset, and a passion for leveraging AI to build technology solutions—qualities I believe are essential for success at COMPANY_NAME.
+
+I'd be thrilled to explore how I can contribute meaningfully to your mission and help drive business growth. Thank you for considering my interest. I’m excited to make an impact!
+
+Warm Regards,
+Hrishikesh Rathod
+MSBA Class of 2025
+University of Washington – Foster School of Business
+📧 hrfoster@uw.edu | 🌐 https://hr-msba-portfolio.netlify.app/

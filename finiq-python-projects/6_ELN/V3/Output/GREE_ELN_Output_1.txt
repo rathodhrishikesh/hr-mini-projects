@@ -1,0 +1,13 @@
+Ticker: GREE
+Notional: 200000.00
+Spot Price on Initial Date (02-Aug-2022): 30.30
+Spot Price on Valuation Date (01-Aug-2023): 5.12
+Number of Days between Valuation Date and Initial Date: 251 days
+Strike %: 97.00
+Strike Price: 29.39
+Issuer %: 99.00
+Share Price BELOW Strike Price on Valuation Date
+
+Final Outcome:
+Loss Case:
+Investor Receives Number of Shares: 6804.80

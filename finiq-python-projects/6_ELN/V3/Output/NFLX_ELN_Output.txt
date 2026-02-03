@@ -1,0 +1,9 @@
+Ticker: NFLX
+Notional: 200000.00
+Strike Price: 219.21
+Spot Price on Initial Date (02-Aug-2022): 221.42
+Spot Price on Valuation Date (01-Aug-2023): 438.62
+Number of Days between Valuation Date and Initial Date: 251 days
+Share Price ABOVE Strike Price on Valuation Date
+Final Outcome:
+Profit: 10000.00

@@ -1,0 +1,13 @@
+Ticker: MSFT
+Notional: 123575.00
+Spot Price on Initial Date (02-Aug-2022): 272.19
+Spot Price on Valuation Date (01-Aug-2023): 336.34
+Number of Days between Valuation Date and Initial Date: 251 days
+Strike %: 95.00
+Strike Price: 258.58
+Issuer %: 90.00
+Share Price ABOVE Strike Price on Valuation Date
+
+Final Outcome:
+Profit Case: Investor Receives Full Notional
+Total Profit (Notional - Invested Amount): 12357.50

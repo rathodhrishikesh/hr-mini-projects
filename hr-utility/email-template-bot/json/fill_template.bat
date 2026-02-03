@@ -1,0 +1,1 @@
+python fill_template.py --template cover.txt --out output-filled.txt --vars vars.json

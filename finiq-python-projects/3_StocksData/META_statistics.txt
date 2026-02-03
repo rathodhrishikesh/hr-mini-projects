@@ -1,0 +1,6 @@
+Minimum Price: 36.56000137329102
+Maximum Price: 382.1799926757812
+Average Price: 166.70777426084388
+Standard Deviation: 79.842709524561
+Median Price: 163.9449996948242
+Total Volume: 71805266100

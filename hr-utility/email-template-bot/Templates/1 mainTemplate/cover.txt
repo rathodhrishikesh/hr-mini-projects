@@ -1,0 +1,23 @@
+Recent MS in Business Analytics Graduate | ~4 Years of FinTech Experience | Interest in "JOB_ROLE" role – Job ID: JOB_ID @ COMPANY_NAME
+
+Dear Hiring Team @ COMPANY_NAME,
+
+I hope you are doing well. I am writing to express my interest in the "JOB_ROLE" (Job ID: JOB_ID) role at COMPANY_NAME.
+
+I recently completed my Master’s in Business Analytics at the University of Washington’s Foster School of Business. With my background in computer engineering and hands-on experience in data analysis, I have developed strong technical skills in Python, R, Java, SQL, Power BI, and Tableau.
+
+In my previous role as a Technical Consultant at FinIQ Consulting, where I spent 4 years, I implemented complex financial systems and built real-time trading platforms for global banks. More recently, during my Salesforce Data & Analytics capstone, I redesigned performance metrics to provide deeper insights into system performance and health, enabling data-driven operational decisions.
+
+To demonstrate my technical expertise and my ability to translate finance domain knowledge and statistical skills into actionable insights, I have built projects such as an A/B Testing Tool and an OMS & FIX Protocol Simulator, further underscoring my fit for the role.
+
+I bring a strong technical foundation, a business-driven mindset, and a passion for leveraging AI to build technology solutions—qualities I believe are essential for success at COMPANY_NAME.
+
+I would greatly appreciate your support in reviewing my resume to see if I might be a good fit for this role. Could you please let me know if you are currently overseeing hiring for this position? If not, I would be truly grateful if you could connect me with the appropriate person or kindly forward my message.
+
+I have attached my CV for your reference. I am very excited about the opportunity to contribute at COMPANY_NAME and am also open to exploring Business Intelligence or Data Analytics opportunities if available. Thank you for your time and consideration.
+
+Warm Regards,
+Hrishikesh Rathod
+MSBA Class of 2025
+University of Washington – Foster School of Business
+📧 hrfoster@uw.edu | 🌐 https://hr-msba-portfolio.netlify.app/

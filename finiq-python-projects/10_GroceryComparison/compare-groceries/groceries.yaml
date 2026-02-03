@@ -1,0 +1,10 @@
+
+items:
+  - name: Milk (Whole)
+    normalize_to: fl_oz
+    typical_size: 1 gal
+    query_hint: whole milk
+  - name: Eggs (Large, Dozen)
+    normalize_to: ct
+    typical_size: 12 ct
+    query_hint: large eggs

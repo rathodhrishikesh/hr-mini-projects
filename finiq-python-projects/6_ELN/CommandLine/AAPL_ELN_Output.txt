@@ -1,0 +1,13 @@
+Ticker: AAPL
+Notional: 200000.00
+Spot Price on Initial Date (02-Aug-2022): 159.06
+Spot Price on Valuation Date (01-Aug-2023): 195.61
+Number of Days between Valuation Date and Initial Date: 251 days
+Strike %: 97.00
+Strike Price: 154.29
+Issuer %: 99.04
+Share Price ABOVE Strike Price on Valuation Date
+
+Final Outcome:
+Profit Case: Investor Receives Full Notional
+Total Profit (Notional - Invested Amount): 1920.00

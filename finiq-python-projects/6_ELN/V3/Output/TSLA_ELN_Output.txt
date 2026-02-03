@@ -1,0 +1,13 @@
+Ticker: TSLA
+Notional: 200000.00
+Spot Price on Initial Date (05-Apr-2021): 230.35
+Spot Price on Valuation Date (01-Aug-2023): 261.07
+Number of Days between Valuation Date and Initial Date: 586 days
+Strike %: 95.00
+Strike Price: 218.83
+Issuer %: 98.00
+Share Price ABOVE Strike Price on Valuation Date
+
+Final Outcome:
+Profit Case: Investor Receives Full Notional
+Total Profit (Notional - Invested Amount): 4000.00

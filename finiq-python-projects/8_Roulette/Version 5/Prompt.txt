@@ -1,0 +1,16 @@
+Martingale Betting System
+write a Simulator in python
+
+keep betting on Red
+bet $10 on red in roulette
+if lost, $20 in next bet
+if lost again, $40 in next bet
+if won at won point, next round start again from $10
+
+prepare a table with the following columns after each round
+Round
+Current Bet
+Total Bets
+Net Profit/Loss
+Which number and color was obtained on the roultette table
+Win status won or lost

@@ -1,0 +1,11 @@
+Round,Current Bet,Total Bets,Cumulative Total Bets,Net Profit/Loss,Roulette Result,Win Status
+1,10,1,10,10,Red 5,Won
+2,20,2,20,0,Black 37,Lost
+3,10,3,40,20,Red 3,Won
+4,10,4,50,30,Red 18,Won
+5,10,5,60,40,Red 6,Won
+6,20,6,70,30,Black 27,Lost
+7,10,7,90,50,Red 12,Won
+8,20,8,100,40,Black 23,Lost
+9,40,9,120,20,Black 27,Lost
+10,80,10,160,-20,Black 31,Lost

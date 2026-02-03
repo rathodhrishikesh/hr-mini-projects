@@ -1,0 +1,13 @@
+Ticker: META
+Notional: 500000.00
+Spot Price on Initial Date (08-Aug-2022): 170.25
+Spot Price on Valuation Date (04-Aug-2023): 310.73
+Number of Days between Valuation Date and Initial Date: 250 days
+Strike %: 95.00
+Strike Price: 161.74
+Issuer %: 98.00
+Share Price ABOVE Strike Price on Valuation Date
+
+Final Outcome:
+Profit Case: Investor Receives Full Notional
+Total Profit (Notional - Invested Amount): 10000.00

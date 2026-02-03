@@ -1,0 +1,12 @@
+make a Roulette simulation model
+read no of rounds and bet amount from user
+spin the wheel
+if you get red, you win otherwise you lose
+if you lose, you double the current bet amount in next round
+if you win in any round, you start from original bet amount
+after every round add a record in a csv file with following readings
+- current bet
+- sum of all bets so far
+- total profit/loss
+- what was the digit and color received on roulette wheel
+- win status (win loss)
