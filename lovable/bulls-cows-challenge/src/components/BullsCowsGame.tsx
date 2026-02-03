@@ -51,7 +51,9 @@ export const BullsCowsGame = () => {
           />
         )}
       </div>
+      
+      {/* Footer Credit */}
+      <FooterCredit />
     </div>
-    <FooterCredit />
   );
 };
