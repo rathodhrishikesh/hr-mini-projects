@@ -1,0 +1,110 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* LendingClubIQ — fintech design system. All colors HSL. */
+
+@layer base {
+  :root {
+    --background: 210 40% 99%;
+    --foreground: 222 47% 11%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222 47% 11%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222 47% 11%;
+
+    /* Deep fintech blue */
+    --primary: 217 91% 32%;
+    --primary-foreground: 210 40% 99%;
+    --primary-glow: 217 91% 55%;
+
+    --secondary: 215 25% 95%;
+    --secondary-foreground: 222 47% 18%;
+
+    --muted: 215 25% 96%;
+    --muted-foreground: 215 16% 42%;
+
+    --accent: 199 89% 48%;
+    --accent-foreground: 0 0% 100%;
+
+    --success: 152 60% 36%;
+    --success-foreground: 0 0% 100%;
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+    --destructive: 0 75% 50%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 215 20% 90%;
+    --input: 215 20% 90%;
+    --ring: 217 91% 32%;
+
+    --radius: 0.65rem;
+
+    /* Chart palette */
+    --chart-1: 217 91% 45%;
+    --chart-2: 199 89% 48%;
+    --chart-3: 152 60% 40%;
+    --chart-4: 38 92% 55%;
+    --chart-5: 0 75% 55%;
+
+    /* Gradients & shadows */
+    --gradient-primary: linear-gradient(135deg, hsl(217 91% 32%), hsl(217 91% 50%));
+    --gradient-subtle: linear-gradient(180deg, hsl(210 40% 99%), hsl(215 25% 97%));
+    --gradient-card: linear-gradient(180deg, hsl(0 0% 100%), hsl(215 25% 98%));
+
+    --shadow-sm: 0 1px 2px hsl(217 30% 20% / 0.04);
+    --shadow-md: 0 4px 12px -2px hsl(217 30% 20% / 0.08);
+    --shadow-lg: 0 16px 40px -12px hsl(217 50% 25% / 0.18);
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 222 47% 6%;
+    --foreground: 210 40% 98%;
+    --card: 222 47% 9%;
+    --card-foreground: 210 40% 98%;
+    --popover: 222 47% 9%;
+    --popover-foreground: 210 40% 98%;
+    --primary: 217 91% 60%;
+    --primary-foreground: 222 47% 6%;
+    --secondary: 217 32% 17%;
+    --secondary-foreground: 210 40% 98%;
+    --muted: 217 32% 14%;
+    --muted-foreground: 215 20% 65%;
+    --accent: 199 89% 55%;
+    --accent-foreground: 222 47% 6%;
+    --destructive: 0 62.8% 45%;
+    --destructive-foreground: 210 40% 98%;
+    --border: 217 32% 17%;
+    --input: 217 32% 17%;
+    --ring: 217 91% 60%;
+  }
+}
+
+@layer base {
+  * { @apply border-border; }
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-feature-settings: "cv02","cv03","cv04","cv11";
+  }
+  html { scroll-behavior: smooth; }
+}
+
+@layer utilities {
+  .bg-gradient-primary { background-image: var(--gradient-primary); }
+  .bg-gradient-subtle { background-image: var(--gradient-subtle); }
+  .bg-gradient-card { background-image: var(--gradient-card); }
+  .shadow-elev-sm { box-shadow: var(--shadow-sm); }
+  .shadow-elev-md { box-shadow: var(--shadow-md); }
+  .shadow-elev-lg { box-shadow: var(--shadow-lg); }
+}
